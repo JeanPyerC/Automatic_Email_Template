@@ -1,1 +1,1 @@
-# Automatic_Email_Template
+# Automatic Email Template
